@@ -441,7 +441,7 @@ a:focus-visible, button:focus-visible {
 }
 
 .footer-nav h4, .footer-contact h4 {
-  color: var(--bg-white);
+  color: var(--cta-text);
   margin-bottom: 1rem;
   font-size: 1.1rem;
 }
@@ -451,7 +451,7 @@ a:focus-visible, button:focus-visible {
 }
 
 .footer-nav a:hover, .footer-contact a:hover {
-  color: var(--bg-white);
+  color: var(--cta-text);
 }
 
 .footer-contact a {
